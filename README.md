@@ -1,45 +1,45 @@
 # 目录 | Table of Contents
 
 ## 📢 前言 | Preface
-- [征求意见稿说明 | Draft Notice](#-征求意见稿说明--draft-notice)
-- [主体独立性声明 | Statement of Independence](#-主体独立性声明--statement-of-independence)
+- [征求意见稿说明 | Draft Notice](#征求意见稿说明--draft-notice)
+- [主体独立性声明 | Statement of Independence](#主体独立性声明--statement-of-independence)
 
 ## 🌟 核心内容 | Core Content
-1. [愿景 | Vision](#-愿景--vision)
- - [生态愿景 | Ecosystem Vision](#-生态愿景--ecosystem-vision)
- - [发展路径 | Development Path](#-发展路径--development-path)
- - [支持机制 | Support Mechanism](#-支持机制--support-mechanism)
- - [成功案例展望 | Success Story Vision](#-成功案例展望--success-story-vision)
+1. [愿景 | Vision](#愿景--vision)
+ - [生态愿景 | Ecosystem Vision](#生态愿景--ecosystem-vision)
+ - [发展路径 | Development Path](#发展路径--development-path)
+ - [支持机制 | Support Mechanism](#支持机制--support-mechanism)
+ - [成功案例展望 | Success Story Vision](#成功案例展望--success-story-vision)
 
-2. [活动基本信息 | Event Basics](#-活动信息--event-information)
- - [活动主题 | Theme](#-活动主题--theme)
- - [时间地点 | Time & Venue](#-活动信息--event-information)
- - [活动目标 | Objectives](#-活动目标--objectives)
+2. [活动基本信息 | Event Basics](#活动基本信息--event-basics)
+ - [活动主题 | Theme](#活动主题--theme)
+ - [时间地点 | Time & Venue](#时间地点--time--venue)
+ - [活动目标 | Objectives](#活动目标--objectives)
 
-3. [项目指南 | Project Guidelines](#-项目方向建议--suggested-project-directions)
- - [信息传播工具 | Information Distribution Tools](#1-信息传播工具--information-distribution-tools)
- - [数据保护方案 | Data Protection Solutions](#2-数据保护方案--data-protection-solutions)
- - [信息验证系统 | Information Verification Systems](#3-信息验证系统--information-verification-systems)
- - [突破审查工具 | Censorship Circumvention Tools](#4-突破审查工具--censorship-circumvention-tools)
+3. [项目指南 | Project Guidelines](#项目指南--project-guidelines)
+ - [信息传播工具 | Information Distribution Tools](#信息传播工具--information-distribution-tools)
+ - [数据保护方案 | Data Protection Solutions](#数据保护方案--data-protection-solutions)
+ - [信息验证系统 | Information Verification Systems](#信息验证系统--information-verification-systems)
+ - [突破审查工具 | Censorship Circumvention Tools](#突破审查工具--censorship-circumvention-tools)
 
-4. [参与细则 | Participation Details](#-参与规则--participation-rules)
- - [项目要求 | Project Requirements](#1-项目要求--project-requirements)
- - [提交流程 | Submission Process](#2-提交流程--submission-process)
- - [评判标准 | Evaluation Criteria](#3-评判标准--evaluation-criteria)
- - [活动流程 | Event Schedule](#-活动流程--event-schedule)
+4. [参与细则 | Participation Details](#参与细则--participation-details)
+ - [项目要求 | Project Requirements](#项目要求--project-requirements)
+ - [提交流程 | Submission Process](#提交流程--submission-process)
+ - [评判标准 | Evaluation Criteria](#评判标准--evaluation-criteria)
+ - [活动流程 | Event Schedule](#活动流程--event-schedule)
 
-5. [奖励机制 | Rewards](#-奖励设置--rewards)
- - [奖金分配 | Prize Distribution](#-奖励设置--rewards)
- - [评审团队 | Jury Panel](#-评审团队--jury-panel)
+5. [奖励机制 | Rewards](#奖励机制--rewards)
+ - [奖金分配 | Prize Distribution](#奖金分配--prize-distribution)
+ - [评审团队 | Jury Panel](#评审团队--jury-panel)
 
 ## 🔒 安全与支持 | Security & Support
-- [安全说明 | Security Notice](#-安全说明--security-notice)
-- [安全建议 | Security Recommendations](#-安全建议--security-recommendations)
-- [联系方式 | Contact Information](#-联系方式--contact-information)
+- [安全说明 | Security Notice](#安全说明--security-notice)
+- [安全建议 | Security Recommendations](#安全建议--security-recommendations)
+- [联系方式 | Contact Information](#联系方式--contact-information)
 
 ## ⚠️ 其他信息 | Other Information
-- [免责声明 | Disclaimer](#-免责声明--disclaimer)
-- [关于 LI-DAO | About LI-DAO](#-关于-li-dao--about-li-dao)
+- [免责声明 | Disclaimer](#免责声明--disclaimer)
+- [关于 LI-DAO | About LI-DAO](#关于-li-dao--about-li-dao)
 
 ---
 
