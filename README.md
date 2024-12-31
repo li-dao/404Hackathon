@@ -43,11 +43,6 @@
 
 ---
 
-**使用说明 | Usage Guide**:
-- 点击标题可直接跳转到对应章节
-- 中英文对照便于国际社区成员阅读
-- Click titles to jump to corresponding sections
-- Bilingual format for international community members
 > **📢 征求意见稿说明 | Draft Notice**
 > 
 > 本文档为LI-DAO "捍卫新闻自由"黑客松活动策划征求意见稿，尚未定稿。欢迎社区成员对活动方案提出建议和意见，特别是关于：
