@@ -1,4 +1,24 @@
-# 404Hackathon
+> **📢 征求意见稿说明 | Draft Notice**
+> 
+> 本文档为LI-DAO "捍卫新闻自由"黑客松活动策划征求意见稿，尚未定稿。欢迎社区成员对活动方案提出建议和意见，特别是关于：
+> - 活动主题设置
+> - 项目方向建议
+> - 奖励分配方案
+> - 安全保护措施
+> - 技术支持方案
+> 
+> 请通过Telegram群组或加密邮件提供反馈。
+> 
+> This document is a draft proposal for LI-DAO "Defend Press Freedom" Hackathon, pending finalization. Community members are welcome to provide suggestions and feedback, especially regarding:
+> - Event theme
+> - Project directions
+> - Reward distribution
+> - Security measures
+> - Technical support
+> 
+> Please provide feedback via Telegram group or encrypted email.
+>
+> ---
 # LI-DAO 开发者社区 - "捍卫新闻自由"404黑客松活动公告
 # LI-DAO Developer Community - "Defend Press Freedom" 404 Hackathon Announcement
 
