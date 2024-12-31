@@ -22,6 +22,11 @@
 # LI-DAO 开发者社区 - "捍卫新闻自由"404黑客松活动公告
 # LI-DAO Developer Community - "Defend Press Freedom" 404 Hackathon Announcement
 
+## 🌈 关于 LI-DAO | About LI-DAO
+LI-DAO开发者社区是一个独立的去中心化自治组织，围绕$LI代币生态建设开展活动。我们致力于通过区块链技术促进信息自由流通，支持新闻自由事业发展。作为独立主体，我们与LI基金会保持开放合作关系，但在组织架构、运营决策等方面完全独立。
+
+LI-DAO developer community is an independent decentralized autonomous organization that operates around the $LI token ecosystem. We are dedicated to promoting free information flow through blockchain technology and supporting press freedom initiatives. As an independent entity, while maintaining an open collaborative relationship with the LI Foundation, we operate completely independently in terms of organizational structure and operational decisions.
+
 ## 🌟 活动主题 | Theme
 "Code for Press Freedom" - 用代码守护新闻自由
 "Code for Press Freedom" - Defending Press Freedom Through Technology
