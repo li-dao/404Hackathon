@@ -1,3 +1,53 @@
+# 目录 | Table of Contents
+
+## 📢 前言 | Preface
+- [征求意见稿说明 | Draft Notice](#-征求意见稿说明--draft-notice)
+- [主体独立性声明 | Statement of Independence](#-主体独立性声明--statement-of-independence)
+
+## 🌟 核心内容 | Core Content
+1. [愿景 | Vision](#-愿景--vision)
+ - [生态愿景 | Ecosystem Vision](#-生态愿景--ecosystem-vision)
+ - [发展路径 | Development Path](#-发展路径--development-path)
+ - [支持机制 | Support Mechanism](#-支持机制--support-mechanism)
+ - [成功案例展望 | Success Story Vision](#-成功案例展望--success-story-vision)
+
+2. [活动基本信息 | Event Basics](#-活动信息--event-information)
+ - [活动主题 | Theme](#-活动主题--theme)
+ - [时间地点 | Time & Venue](#-活动信息--event-information)
+ - [活动目标 | Objectives](#-活动目标--objectives)
+
+3. [项目指南 | Project Guidelines](#-项目方向建议--suggested-project-directions)
+ - [信息传播工具 | Information Distribution Tools](#1-信息传播工具--information-distribution-tools)
+ - [数据保护方案 | Data Protection Solutions](#2-数据保护方案--data-protection-solutions)
+ - [信息验证系统 | Information Verification Systems](#3-信息验证系统--information-verification-systems)
+ - [突破审查工具 | Censorship Circumvention Tools](#4-突破审查工具--censorship-circumvention-tools)
+
+4. [参与细则 | Participation Details](#-参与规则--participation-rules)
+ - [项目要求 | Project Requirements](#1-项目要求--project-requirements)
+ - [提交流程 | Submission Process](#2-提交流程--submission-process)
+ - [评判标准 | Evaluation Criteria](#3-评判标准--evaluation-criteria)
+ - [活动流程 | Event Schedule](#-活动流程--event-schedule)
+
+5. [奖励机制 | Rewards](#-奖励设置--rewards)
+ - [奖金分配 | Prize Distribution](#-奖励设置--rewards)
+ - [评审团队 | Jury Panel](#-评审团队--jury-panel)
+
+## 🔒 安全与支持 | Security & Support
+- [安全说明 | Security Notice](#-安全说明--security-notice)
+- [安全建议 | Security Recommendations](#-安全建议--security-recommendations)
+- [联系方式 | Contact Information](#-联系方式--contact-information)
+
+## ⚠️ 其他信息 | Other Information
+- [免责声明 | Disclaimer](#-免责声明--disclaimer)
+- [关于 LI-DAO | About LI-DAO](#-关于-li-dao--about-li-dao)
+
+---
+
+**使用说明 | Usage Guide**:
+- 点击标题可直接跳转到对应章节
+- 中英文对照便于国际社区成员阅读
+- Click titles to jump to corresponding sections
+- Bilingual format for international community members
 > **📢 征求意见稿说明 | Draft Notice**
 > 
 > 本文档为LI-DAO "捍卫新闻自由"黑客松活动策划征求意见稿，尚未定稿。欢迎社区成员对活动方案提出建议和意见，特别是关于：
@@ -19,8 +69,90 @@
 > Please provide feedback via Telegram group or encrypted email.
 >
 > ---
-# LI-DAO 开发者社区 - "捍卫新闻自由"404黑客松活动公告
-# LI-DAO Developer Community - "Defend Press Freedom" 404 Hackathon Announcement
+
+# LI-DAO 开发者社区 - "捍卫新闻自由"黑客松活动公告
+# LI-DAO Developer Community - "Defend Press Freedom" Hackathon Announcement
+
+## 🔭 愿景 | Vision
+我们不只是举办一场黑客松，而是致力于建立一个可持续发展的自由软件生态系统。通过"项目孵化+持续支持"模式，我们希望：
+
+We're not just hosting a hackathon, but building a sustainable ecosystem for freedom-oriented software. Through our "Project Incubation + Continuous Support" model, we aim to:
+
+### 🌱 生态愿景 | Ecosystem Vision
+1. **培育自由软件项目 | Nurture Freedom Software Projects**
+ - 从概念到产品的全程支持
+ - 技术、资金、社区多维度扶持
+ - Full support from concept to product
+ - Multi-dimensional support in technology, funding, and community
+
+2. **建立长期合作关系 | Establish Long-term Partnerships**
+ - 黑客松只是起点，不是终点
+ - 优秀项目将获得持续关注和支持
+ - Hackathon is the beginning, not the end
+ - Outstanding projects receive ongoing attention and support
+
+3. **打造完整生态链 | Create Complete Ecosystem**
+ - 连接开发者、用户与资源
+ - 形成良性循环的生态系统
+ - Connect developers, users, and resources
+ - Form a virtuous cycle ecosystem
+
+### 🎯 发展路径 | Development Path
+1. **初期孵化 | Initial Incubation**
+ - 黑客松项目启动
+ - 原型开发支持
+ - 社区反馈收集
+ - Hackathon project initiation
+ - Prototype development support
+ - Community feedback collection
+
+2. **成长期 | Growth Phase**
+ - 持续开发资金支持
+ - 技术指导和优化
+ - 用户群体培育
+ - Continued development funding
+ - Technical guidance and optimization
+ - User base cultivation
+
+3. **成熟期 | Maturity Phase**
+ - 项目独立运营
+ - 社区深度整合
+ - 生态价值实现
+ - Independent project operation
+ - Deep community integration
+ - Ecosystem value realization
+
+### 💡 支持机制 | Support Mechanism
+1. **资金支持 | Financial Support**
+ - 初始开发资助
+ - 阶段性追加投资
+ - 生态共建奖励
+ - Initial development funding
+ - Phase-based additional investment
+ - Ecosystem co-building rewards
+
+2. **技术支持 | Technical Support**
+ - 开发工具与框架
+ - 技术指导与评审
+ - 安全审计支持
+ - Development tools and frameworks
+ - Technical guidance and review
+ - Security audit support
+
+3. **运营支持 | Operational Support**
+ - 社区运营指导
+ - 用户增长策略
+ - 市场推广支持
+ - Community operation guidance
+ - User growth strategy
+ - Marketing support
+
+[原有的活动概述和其他内容继续...]
+
+## 📈 成功案例展望 | Success Story Vision
+想象一个场景：一个开发团队通过黑客松提出构建中文自由论坛的想法，获得初始资助后开发出MVP（最小可行产品）。在社区反馈的指导下持续优化，逐步获得用户认可。通过定期的进展评估，项目获得后续资助，最终发展成为社区重要的基础设施项目，实现技术创新、社会价值和可持续发展的统一。
+
+Imagine: A development team proposes building a Chinese free speech forum during the hackathon, develops an MVP with initial funding. Guided by community feedback, they continuously improve and gain user adoption. Through regular progress evaluation, the project receives follow-up funding and eventually becomes a crucial infrastructure project in the community, achieving unity of technical innovation, social value, and sustainable development.
 
 ## 🌈 关于 LI-DAO | About LI-DAO
 LI-DAO开发者社区是一个独立的去中心化自治组织，围绕$LI代币生态建设开展活动。我们致力于通过区块链技术促进信息自由流通，支持新闻自由事业发展。作为独立主体，我们与LI基金会保持开放合作关系，但在组织架构、运营决策等方面完全独立。
